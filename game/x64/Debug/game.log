@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\映银氚\Desktop\映银氚\代码\game\test.c(25,9): warning C4013: “who_win”未定义；假设外部返回 int
+  game.vcxproj -> C:\Users\映银氚\Desktop\映银氚\代码\game\x64\Debug\game.exe
