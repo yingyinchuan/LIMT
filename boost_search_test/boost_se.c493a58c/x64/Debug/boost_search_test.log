@@ -1,0 +1,7 @@
+﻿  debug.cpp
+  parser.cpp
+C:\Users\映银氚\Desktop\映银氚\代码\gitcode\boost_search_test\index.hpp(8,10): error C1083: 无法打开包括文件: “boost/filesystem.hpp”: No such file or directory
+  (编译源文件“debug.cpp”)
+  
+C:\Users\映银氚\Desktop\映银氚\代码\gitcode\boost_search_test\parser.cpp(5,10): error C1083: 无法打开包括文件: “boost/filesystem.hpp”: No such file or directory
+  正在生成代码...
