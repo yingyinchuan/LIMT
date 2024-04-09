@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u6620\u94F6\u6C1A\\Desktop\\\u6620\u94F6\u6C1A\\\u4EE3\u7801\\gitcode\\HuffmanTree_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D80BC87-075F-4D43-8409-931D874E5ACB}|HuffmanTree_test.vcxproj|D:\\COMPILER\\VS-1\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\VECTOR||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vector",
+              "DocumentMoniker": "D:\\compiler\\VS-1\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ToolTip": "D:\\compiler\\VS-1\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ViewState": "AQIAAFUHAAAAAAAAAAAewGQHAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-09T13:28:21.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
